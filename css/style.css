@@ -18,3 +18,27 @@
 #mensajito{
     display: none;
 }
+#sumatorio{
+    margin:auto;
+    width: 50%;
+    height: 75px;
+    border: 1px solid black;
+}
+
+#primer_sumando, #segundo_sumando{
+    width: 49.5%;
+    height: 25px;
+    float: left;
+    border: 1px solid blue;
+
+}
+
+#resultado{
+    align-items: center;
+    text-align: center;
+}
+
+#btn_crear_elemento{
+    display: block;
+    margin: auto;
+}
